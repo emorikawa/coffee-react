@@ -39,7 +39,7 @@
   "dependencies": {
     "mkdirp": "~0.3.5",
     "coffee-script": "^1.7.1",
-    "coffee-react-transform": "^1.0.2"
+    "coffee-react-transform": "git://github.com/jsdf/coffee-react-transform.git#8ca145a4efdb73a503e6392bc841331da1a49c6c"
   },
   "devDependencies": {
     "concat-stream": "^1.4.5",
